@@ -1,1 +1,2 @@
 Adding the Third File to the Staging Area
+Modifying the File

@@ -1,1 +1,2 @@
 Adding the Second File to the Staging Area
+Modifying the File
